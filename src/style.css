@@ -1,0 +1,48 @@
+header {
+    background-color: lightcoral;
+    padding: 2px;
+    border: 2px black solid;
+    border-radius: 10px;
+    text-align: justify;
+
+}
+
+
+
+
+.new {
+    background: transparent;
+    text-align: end;
+    padding: 15px;
+    border: 2px solid;
+    border-radius: 5px;
+
+}
+
+
+
+
+
+
+
+
+body {
+    background-color: rgb(248, 233, 235);
+    margin: 1px;
+
+
+}
+
+
+#chat {
+    padding-top: 50%;
+
+}
+
+
+#mensaje {
+    border: none;
+    background: transparent;
+    width: 95%;
+    outline: none;
+}
