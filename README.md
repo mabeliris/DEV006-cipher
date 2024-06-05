@@ -21,10 +21,10 @@ contraseña importante, algun dato privado o simplemente guardar nuestros secret
 
 keys es un proyecto de mensajeria que funciona a traves de cifrado cesar, 
 encriptando tus mensajes secretos.
-La idea de mi proyecto es brindar una plataforma que de seguridad al usuario de que 
+La idea de mi proyecto es brindar seguridad al usuario de que 
 sus conversaciones no seran vistas por alguien más y si asi fuera que no puedan ser 
 interpretadas facilmente.
-El estado de esta plataforma es actualmente en desarrollo.
+El estado de este proyecto actualmente es en desarrollo.
 
 ## 3. Prototipo de baja fidelidad
 https://drive.google.com/drive/my-drive
