@@ -19,7 +19,7 @@ contraseña importante, algun dato privado o simplemente guardar nuestros secret
 
 ## 2. Resumen del proyecto
 
-keys es una plataforma de mensajeria que funciona a traves de cifrado cesar, 
+keys es un proyecto de mensajeria que funciona a traves de cifrado cesar, 
 encriptando tus mensajes secretos.
 La idea de mi proyecto es brindar una plataforma que de seguridad al usuario de que 
 sus conversaciones no seran vistas por alguien más y si asi fuera que no puedan ser 
