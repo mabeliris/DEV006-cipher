@@ -34,6 +34,7 @@ https://drive.google.com/drive/my-drive
 La página cuenta con un botón de cifrado y uno de descifrado, acompañado de un número
 llamado clave el cual se usa para definir los espacios que se corre la letra a cifrar 
 o descifrar
+Por ahora solo se pueden usar mayúsculas en los mensajes.
 
 ## 5. Proyecto terminado
 https://mabeliris.github.io/DEV006-cipher/
